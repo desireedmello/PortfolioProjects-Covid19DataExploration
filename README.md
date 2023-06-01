@@ -25,13 +25,13 @@ This file contains the SQL Queries for performing various Data Exploration Tasks
 
 <h2>Skills</h2>
 
-- Joins,
-- CTE's,
-- Temp Tables,
-- Windows Functions,
-- Aggregate Functions,
-- Creating Views,
-- Converting Views,
+- Joins
+- CTE's (Common Data Expressions)
+- Temp Tables
+- Windows Functions
+- Aggregate Functions
+- Creating Views
+- Converting Views
 - Converting Data Types
 
 <hr>
