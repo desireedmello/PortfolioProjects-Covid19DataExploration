@@ -23,5 +23,18 @@ This file contains the SQL Queries for performing various Data Exploration Tasks
 
 <hr>
 
+<h2>Skills Showcased</h2>
+
+- Joins,
+- CTE's,
+- Temp Tables,
+- Windows Functions,
+- Aggregate Functions,
+- Creating Views,
+- Converting Views,
+- Converting Data Types
+
+<hr>
+
 <h2>Dataset Download Link</h2>
 Our World in Data - Coronovirus (COVID-19) Deaths - https://ourworldindata.org/covid-deaths
