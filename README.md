@@ -23,7 +23,7 @@ This file contains the SQL Queries for performing various Data Exploration Tasks
 
 <hr>
 
-<h2>Skills Showcased</h2>
+<h2>Skills</h2>
 
 - Joins,
 - CTE's,
