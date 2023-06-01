@@ -6,8 +6,7 @@
 
 <h2> Repository Details </h2>
 
-- [COVID19.sql] 
-(https://github.com/desireedmello/PortfolioProjects-Covid19DataExploration/blob/39830b8b926a460d67473bb9bd04ec0a16bfc3f4/COVID19.sql) <br>
+- [COVID19.sql](https://github.com/desireedmello/PortfolioProjects-Covid19DataExploration/blob/39830b8b926a460d67473bb9bd04ec0a16bfc3f4/COVID19.sql) <br>
 This file contains the SQL Queries for performing various Data Exploration Tasks.
 
 <hr>
@@ -25,4 +24,4 @@ This file contains the SQL Queries for performing various Data Exploration Tasks
 <hr>
 
 <h2>Dataset Download Link</h2>
-Our World in Data - Coronovirus (COVID-19) Deaths - https://ourworldindata.org/covid-deaths 
+Our World in Data - Coronovirus (COVID-19) Deaths - https://ourworldindata.org/covid-deaths
