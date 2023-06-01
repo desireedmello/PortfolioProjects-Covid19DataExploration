@@ -1,6 +1,6 @@
 <h1 align="center"> Covid19 Data Exploration using SQL Queries on SSMS Platform</h1>
 
-<p> Covid19 Data Exploration is a Project wherein I took the dataset from Our World In Data which comprises of the Coronavirus (COVID-19) Deaths. The main focus of this project was to showcase the utilization of Joins, CTE's (Common Data Expressions), Temporary Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Views, and Converting to Data Types. The file was downloaded as a CSV file and changes were made to create two tables namely Covid_Deaths and Covid_Vaccinations. The focus was mainly target to understanding the amount of deaths per continent, country and the vaccinations utilized in these continents/countries. <p>
+<p> Covid19 Data Exploration is a Project wherein I took the dataset from Our World In Data which comprises of the Coronavirus (COVID-19) Deaths. The main focus of this project was to showcase the utilization of Joins, CTE's (Common Data Expressions), Temporary Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Views, and Converting to Data Types. The file was downloaded as a CSV file and converted to two Excel files namely Covid_Deaths abd Covid_Vaccinations. These Excel files were then uploaded on SSML software appllication where SQL Queries were perfomed for Data Exploration. The focus of this project was targeted towards understanding the amount of deaths per continent/country and the vaccinations utilized in these continents/countries nased on the population, location and dates. <p>
   
  <hr>
 
