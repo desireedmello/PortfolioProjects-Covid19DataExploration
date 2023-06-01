@@ -1,18 +1,4 @@
-/*
-
-COVID19 Data Exploration Project
-
-SKILLS USED:
-- Joins,
-- CTE's,
-- Temp Tables,
-- Windows Functions,
-- Aggregate Functions,
-- Creating Views,
-- Converting Views,
-- Converting Data Types
-
-*/
+-- COVID19 Data Exploration Project
 
 -- Selecting the data to begin querying
 
